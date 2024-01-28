@@ -12,6 +12,18 @@ title: Current Location
 
 <div id ="map" style = "width: 450px; height: 320px"></div>
 
+<h4>Where we've been</h4>
+
+<ul>
+    {% for location in site.data.locations %}
+      <li>
+        <a href="https://github.com/{{ member.github }}">
+          {{ location.name }}
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
+
 <script src = "https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
               <script>
 
