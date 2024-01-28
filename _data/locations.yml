@@ -1,0 +1,9 @@
+- name: London
+  country: UK
+  date: 09/03/2024
+  coords: 51.4680,-0.4551
+
+- name: Bogota
+  country: Colombia
+  date: 10/03/2024
+  coords: 4.7110, 74.0721

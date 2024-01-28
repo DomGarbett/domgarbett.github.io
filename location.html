@@ -1,0 +1,33 @@
+---
+permalink: /location.html
+layout: default
+---
+
+<h2 id="demo"> Heres where we currently are:</H2>
+<h4>Place : {{site.data.currentLocation[0].name}}</h3>
+<h4>Country : {{site.data.currentLocation[0].country}}</h3>
+<h4>Date : {{site.data.currentLocation[0].date}}</h3>
+<div id="current-location-coords" style="display:none">{{site.data.currentLocation[0].coords}}</div>
+
+<div id ="map" style = "width: 450px; height: 320px"></div>
+
+<script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+              <script>
+
+                var locationCoOrds = document.getElementById("current-location-coords").innerText.split(",").map((x)=>parseFloat(x));
+                 // Creating map options
+                 var mapOptions = {
+                    center: [locationCoOrds[0], locationCoOrds[1]],
+                    zoom: 10
+                 }
+                 // Creating a map object
+                 var map = new L.map('map', mapOptions);
+                 // Creating a Layer object
+                 var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+                 // Adding layer to the map
+                 map.addLayer(layer);
+                 let iconOptions = {title:'current location'}
+                 let marker = new L.Marker([locationCoOrds[0], locationCoOrds[1]],iconOptions);
+                 marker.addTo(map);
+
+</script>
