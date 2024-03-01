@@ -3,27 +3,33 @@ permalink: /location.html
 layout: default
 title: Current Location
 ---
-
-<h2 id="demo"> Heres where we currently are:</H2>
-<h4>Place : {{site.data.currentLocation[0].name}}</h3>
-<h4>Country : {{site.data.currentLocation[0].country}}</h3>
-<h4>Date : {{site.data.currentLocation[0].date}}</h3>
-<div id="current-location-coords" style="display:none">{{site.data.currentLocation[0].coords}}</div>
-
-<div id ="map" style = "width: 450px; height: 320px"></div>
-
-<h4>Where we've been</h4>
-
+<link rel="stylesheet" href="/assets/css/site.css">
 <ul>
-    {% for location in site.data.locations %}
-      <li>
-        <a href="https://github.com/{{ member.github }}">
-          {{ location.name }}
-        </a>
-      </li>
+    {% for location in site.data.locations %}    
+    {% if forloop.first == true %}
+    <h2>Where we currently are : {{location.name}}</h2>
+
+    <div>Emoji of the day {{location.emoji}} </div>
+    <div id="current-location-coords" style="display:none">{{site.data.currentLocation[0].coords}}</div>
+    <div class="map-container" style="width: 100%;">
+    <div id ="map" style = "width: 300px; height: 300px; margin: auto; margin-bottom:20px"></div></div>    
+
+    <h3 id="history-title" stlye="margin-top:50px"> Where we've already been : </h3>
+  {% endif %}
+  {% if forloop.first == false %}
+  <div style="border:1px black solid; height: 200px;">
+    <div class="day-count" style="padding-left: 8x; padding-top:8px;">Day : {{location.day}}</div>
+<!-- 
+    <div id="location-image" style="margin-left: 14px; padding-top: 14px;">
+      <img src="{{ location.mainImage }}"  style="border-radius: 15px;" height="100px" width="100px"/>
+    </div> -->
+    <div class="emoji" ><h1>{{location.emoji}}</h1></div>
+      Location : {{ location.name }}
+  </div>
+{% endif %}
     {% endfor %}
     </ul>
-
+    
 <script src = "https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
               <script>
 
