@@ -3,50 +3,58 @@ permalink: /location.html
 layout: default
 title: Current Location
 ---
-<link rel="stylesheet" href="/assets/css/site.css">
 <ul>
-    {% for location in site.data.locations %}    
-    {% if forloop.first == true %}
-    <h2>Where we currently are : {{location.name}}</h2>
+  {% for location in site.data.locations %}
+  {% if forloop.first == true %}
+  <h2>Where we currently are : {{location.name}}</h2>
+  <div id="current-location-coords" style="display:none">{{site.data.currentLocation[0].coords}}</div>
+  <div class="map-container" style="width: 100%;">
+    <div id="map" style="width: 300px; height: 300px; margin: auto; margin-bottom:20px"></div>
+  </div>
+  <h3>Date : {{location.date}}</h3>
+  <div>Emoji of the day {{location.emoji}} </div></br>
+  <div style="margin-bottom: 50px;">
+    {{location.description}}
+  </div>
 
-    <div>Emoji of the day {{location.emoji}} </div>
-    <div id="current-location-coords" style="display:none">{{site.data.currentLocation[0].coords}}</div>
-    <div class="map-container" style="width: 100%;">
-    <div id ="map" style = "width: 300px; height: 300px; margin: auto; margin-bottom:20px"></div></div>    
-
-    <h3 id="history-title" stlye="margin-top:50px"> Where we've already been : </h3>
+  <h3 id="history-title" stlye="margin-top:50px"> Where we've already been : </h3>
   {% endif %}
   {% if forloop.first == false %}
-  <div style="border:1px black solid; height: 200px;">
-    <div class="day-count" style="padding-left: 8x; padding-top:8px;">Day : {{location.day}}</div>
-<!-- 
-    <div id="location-image" style="margin-left: 14px; padding-top: 14px;">
-      <img src="{{ location.mainImage }}"  style="border-radius: 15px;" height="100px" width="100px"/>
-    </div> -->
-    <div class="emoji" ><h1>{{location.emoji}}</h1></div>
-      Location : {{ location.name }}
+  <div class="day-list-container">
+    <div class="day-count" style=" padding-left: 8x; padding-top:8px; width: auto;">Day :
+      {{location.day}}
+    </div>
+    <div class="emoji">
+      <h1>{{location.emoji}}</h1>
+    </div>
+    <div>
+      <h3>
+        <bold>Location : </bold>{{location.name}}, {{location.country}} {{location.date}}
+      </h3>
+      <h4>{{location.description}}</h4>
+    </div>
   </div>
-{% endif %}
-    {% endfor %}
-    </ul>
-    
-<script src = "https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
-              <script>
+  {% endif %}
+  {% endfor %}
+</ul>
 
-                var locationCoOrds = document.getElementById("current-location-coords").innerText.split(",").map((x)=>parseFloat(x));
-                 // Creating map options
-                 var mapOptions = {
-                    center: [locationCoOrds[0], locationCoOrds[1]],
-                    zoom: 10
-                 }
-                 // Creating a map object
-                 var map = new L.map('map', mapOptions);
-                 // Creating a Layer object
-                 var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
-                 // Adding layer to the map
-                 map.addLayer(layer);
-                 let iconOptions = {title:'current location'}
-                 let marker = new L.Marker([locationCoOrds[0], locationCoOrds[1]],iconOptions);
-                 marker.addTo(map);
+<script src="https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
+<script>
+
+  var locationCoOrds = document.getElementById("current-location-coords").innerText.split(",").map((x) => parseFloat(x));
+  // Creating map options
+  var mapOptions = {
+    center: [locationCoOrds[0], locationCoOrds[1]],
+    zoom: 10
+  }
+  // Creating a map object
+  var map = new L.map('map', mapOptions);
+  // Creating a Layer object
+  var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+  // Adding layer to the map
+  map.addLayer(layer);
+  let iconOptions = { title: 'current location' }
+  let marker = new L.Marker([locationCoOrds[0], locationCoOrds[1]], iconOptions);
+  marker.addTo(map);
 
 </script>

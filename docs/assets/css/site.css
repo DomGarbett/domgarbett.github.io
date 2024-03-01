@@ -1,0 +1,30 @@
+.day-list-container {
+    flex-direction: row;
+    display: flex;
+    min-height: 80px;
+    border: 1px solid black;
+}
+
+.emoji {
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.day-count {
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    padding-right: 8px;
+    padding-left: 8px;
+}

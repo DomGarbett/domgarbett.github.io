@@ -2,13 +2,29 @@
   day: 1
   country: UK
   mainImage: https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg
-  tagLine: Day 0 and we're flying out of london heathrow on the 21:40 AV 121 flight to bogota
   rating: 5
+  reasonForRating: WIP - will add something here as i work it out
+  description: Day 0 and we're flying out of london heathrow on the 21:40 AV 121 flight to bogota Follow our <a href="https://www.flightradar24.com/data/flights/av121">flight with this link </a>
   emoji: ✈️
   date: 09/03/2024
   coords: 51.4680,-0.4551
 
 - name: Bogota
+  day: 2
   country: Colombia
+  mainImage: https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg
+  rating: 5
+  description: We're not qute here yet but this WIP will help shape what the site will look like
+  emoji: 🇨🇴
+  date: 10/03/2024
+  coords: 4.7110, 74.0721
+
+- name: Salento
+  day: 3
+  country: Colombia
+  mainImage: https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg
+  rating: 5
+  description: We're not qute here yet but this WIP will help shape what the site will look like
+  emoji: 🇨🇴
   date: 10/03/2024
   coords: 4.7110, 74.0721
