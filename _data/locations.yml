@@ -1,3 +1,9 @@
+- name: Bogota
+  day: 1
+  country: Colombia
+  description: After an eleven hour flight we've landed in Colombia safe and sound
+  date: 10/03/2024
+  coords: 4.7110, 74.0721
 - name: London
   day: 1
   country: UK
