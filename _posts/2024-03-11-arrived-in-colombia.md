@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Arrived in Colombia”
+title: Arrived in Colombia
 date: 2024-03-11 00:00:00 +0000
 categories:
 ---
