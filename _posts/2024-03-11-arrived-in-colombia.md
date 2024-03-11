@@ -1,9 +1,9 @@
-—
+---
 layout: post
 title: “Arrived in Colombia”
 date: 2024-03-11 00:00:00 +0000
 categories:
-—
+---
 
 After a long 11 hour flight from London Heathrow we arrived in Bogotá, Colombia at around 3:40 am local time. With a spoilt night of sleep on the plane and adjusting to the 5 hours time zone change we decided to wait in the airport until dusk to attempt to catch a taxi to our hostel. 
 ![alt text]({{ site.url }}/docs/assets/images/Day1_a.png){: width=“250”}
