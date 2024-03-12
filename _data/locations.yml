@@ -1,4 +1,11 @@
 - name: Bogota
+  day: 4
+  country: Colombia
+  description: Today we went on a walking tour which involved seeing emerald traders in the street and drinking Chicha, a corn based fermented beverage
+  date: 12/03/2024
+  emoji: 🚶🏻🚶🏻‍♀️
+  coords: 4.7110,74.0721
+- name: Bogota
   day: 3
   country: Colombia
   description: Learning how to the use the transmilenio buses with a trip to Plaza de Bolívar in La Candelaria district 
