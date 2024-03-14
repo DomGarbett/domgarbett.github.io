@@ -1,3 +1,10 @@
+- name: Solento
+  day: 5
+  country: Colombia
+  description: After a night bus to Solento we spent the day at a coffee farm having a tour
+  date: 14/03/2024
+  emoji: ☕️
+  coords: 4.63643000, 75.56740000  
 - name: Bogota
   day: 5
   country: Colombia
