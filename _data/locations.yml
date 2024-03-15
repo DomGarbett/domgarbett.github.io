@@ -1,5 +1,12 @@
 - name: Salento
-  day: 5
+  day: 6
+  country: Colombia
+  description: A 6 hour hike of Valle de Cocora to see the worlds tallest palm trees <a href="https://strava.app.link/IKL2odgNZHb"> See it on strava here </a>
+  date: 15/03/2024
+  emoji: 🌴
+  coords: 4.63643000, 75.56740000
+- name: Salento
+  day: 6
   country: Colombia
   description: After a night bus to Salento, we spent the day exploring a local coffee farm
   date: 14/03/2024
