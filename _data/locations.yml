@@ -1,4 +1,11 @@
 - name: Manizales
+  day: 9
+  country: Colombia
+  description: Spent the afternoon at a thermal spa called Thermales El Otoño near some hot springs, a short bus ride away from the city center
+  date: 17/03/2024
+  emoji: 👙🩲
+  coords: 4.63643000, 75.56740000 
+- name: Manizales
   day: 8
   country: Colombia
   description: After leaving Salento, we took a bus to Manizales to stay at a remote hostel on the hillside. Catchup on our <a href="https://www.domandniamhtravel.com/2024/03/16/salento.html"> Salento blog here </a>
