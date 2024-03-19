@@ -1,4 +1,11 @@
 - name: Manizales
+  day: 10
+  country: Colombia
+  description: A relaxing day spent at the hostel planning the next few weeks, reading and resting up ready for a hike tomorrow
+  date: 18/03/2024
+  emoji: 📚
+  coords: 4.63643000, 75.56740000
+- name: Manizales
   day: 9
   country: Colombia
   description: Spent the afternoon at a thermal spa called Thermales El Otoño near some hot springs, a short bus ride away from the city center
