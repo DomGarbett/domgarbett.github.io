@@ -1,4 +1,11 @@
 - name: Manizales
+  day: 11
+  country: Colombia
+  description: Hired a guide to explore Los Nevados National Park, which included a swim in a thermal springs river and viewing a volcanic glacier at 4000m
+  date: 19/03/2024
+  emoji: 🌋
+  coords: 4.63643000, 75.56740000
+- name: Manizales
   day: 10
   country: Colombia
   description: A relaxing day spent at the hostel planning the next few weeks, reading and resting up ready for a hike tomorrow
