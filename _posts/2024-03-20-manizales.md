@@ -22,7 +22,7 @@ On our first day in Manizales we caught one of the many buses to the cable car t
 
 ![a](https://live.staticflickr.com/65535/53599405216_f9c68a86af_c_d.jpg){:width=“250”}
 
-We eventually ended up walking to a hill with a monument to defeating the Spanish colonisers with incredible views all around. We decided to grab some lunch at a restaurant which unbeknown to us didn’t use menu’s. Whilst the waitress was very kind in slowly explaining to us in Spanish the offerings we still got very confused and didn’t really know what we ordered other than it potentially being the plate of the day. What came out was a great ensemble of trout , rice , beans and plantain which went down a treat. I think the meal came to around 42,000 pesos for a soup starter as a main and a drink each . Which works out to be around £8.50 in total for the two meals.
+We eventually ended up walking to a hill with a monument to defeating the Spanish colonisers with incredible views all around. We decided to grab some lunch at a restaurant which unbeknown to us didn’t use menu’s. Whilst the waitress was very kind in slowly explaining to us in Spanish the offerings we still got very confused and didn’t really know what we ordered other than it potentially being the plate of the day. What came out was a great ensemble of trout , rice , beans and plantain which went down a treat. I think the meal came to around 42,000 pesos for a soup starter, a main and a drink each. Which works out to be around £8.50 in total for the two meals.
 
 ![a](https://live.staticflickr.com/65535/53599769919_98e186b91e_c_d.jpg){:width=“250”}
 
