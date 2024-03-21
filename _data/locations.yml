@@ -1,3 +1,10 @@
+- name: Cali
+  day: 12
+  country: Colombia
+  description: Finished off in manizales abd took yhe bus to Cali. See the <a href="https://www.domandniamhtravel.com/2024/03/20/manizales.html">Manizales post here </a>. Finally got some laundry done on arrival 
+  date: 19/03/2024
+  emoji:🧺
+  coords: 4.63643000, 75.56740000
 - name: Manizales
   day: 11
   country: Colombia
