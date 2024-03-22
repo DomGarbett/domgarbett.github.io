@@ -1,4 +1,11 @@
 - name: Cali
+  day: 13
+  country: Colombia
+  date: 21/03/2024
+  description: Went on a walking tour of Cali, followed by a group salsa lesson at the hostel
+  emoji: 💃🕺
+  coords: 4.63643000, 75.56740000
+- name: Cali
   day: 12
   country: Colombia
   description: Finished off in manizales and took the bus to Cali. See the <a href="https://www.domandniamhtravel.com/2024/03/20/manizales.html">Manizales post here </a>. Finally got some laundry done on arrival 
