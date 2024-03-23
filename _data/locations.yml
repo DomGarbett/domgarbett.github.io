@@ -1,4 +1,11 @@
 - name: Cali
+  day: 14
+  country: Colombia
+  date: 22/03/2024
+  description: Spent the day wandering around the San Antonio district of Cali and saw El Gato del Rio (river cat sculpture) 
+  emoji: 🐈
+  coords: 4.63643000, 75.56740000
+- name: Cali
   day: 13
   country: Colombia
   date: 21/03/2024
