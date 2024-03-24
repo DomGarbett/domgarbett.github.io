@@ -1,3 +1,10 @@
+- name: Medellin
+  day: 15
+  country: Colombia
+  date: 23/03/2024
+  description: After a night bus to Medellin, we spent the morning napping before some drinks at the roof top bar of the hostel
+  emoji: 💤
+  coords: 4.63643000, 75.56740000
 - name: Cali
   day: 14
   country: Colombia
