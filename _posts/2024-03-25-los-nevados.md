@@ -1,9 +1,9 @@
-———
+---
 layout: post
 title: Los Nevados National Park
 date: 2024-03-25 00:00:00 +0000
 categories:
-———
+---
 
 One of the reasons we decided to stay an extra two nights in Manizales was so we could organise an excursion to the Los Nevados National Park. The national park is an area of mountains , lakes and thermal hot springs surrounding the Nevados del Ruiz volcano. 
 
