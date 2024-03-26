@@ -1,4 +1,11 @@
 - name: Medellin
+  day: 17
+  country: Colombia
+  date: 25/03/2024
+  description: Visit to Museo Casa de La Memoria, a museum on the armed conflict of Colombia including the history of the Medellin Cartel
+  emoji: 🪖
+  coords: 4.63643000, 75.56740000
+- name: Medellin
   day: 16
   country: Colombia
   date: 24/03/2024
