@@ -39,7 +39,7 @@ We took a few more stops on the tour where we could get out and take photos and 
 
 
 
-We headed back to the restaurant where we started our day  to have an authentic Colombian lunch and more coca tea. We later headed back Manizales for a trip we won’t be forgetting anytime soon. 
+We headed back to the restaurant where we started our day  to have an authentic Colombian lunch and more coca tea. We later headed back to Manizales for a trip we won’t be forgetting anytime soon. 
 
 ![a](https://live.staticflickr.com/65535/53611471923_90d778effa_k_d.jpg){:width=“250”}
 
