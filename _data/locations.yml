@@ -6,6 +6,13 @@
   emoji: 🏰
   coords: 4.63643000, 75.56740000
 - name: Medellin
+  day: 18
+  country: Colombia
+  date: 26/03/2024
+  description: Traveled to Parque Avri by the cable car system, before an internal flight to Cartagena 
+  emoji: 🚡
+  coords: 4.63643000, 75.56740000
+- name: Medellin
   day: 17
   country: Colombia
   date: 25/03/2024
