@@ -1,4 +1,11 @@
 - name: Cartagena de Indias
+  day: 19
+  country: Colombia
+  date: 28/03/2024
+  description: Day trip to bathe at Volcan del Totumo, a mud volcano
+  emoji: 🟤🛀
+  coords: 4.63643000, 75.56740000
+- name: Cartagena de Indias
   day: 18
   country: Colombia
   date: 27/03/2024
