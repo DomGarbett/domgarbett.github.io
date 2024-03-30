@@ -1,4 +1,11 @@
 - name: Cartagena de Indias
+  day: 20
+  country: Colombia
+  date: 29/03/2024
+  description: Boat trip to the Rosario islands, with snorkelling around coral reef's and Pablo Escobar's plane wreck (saw lots of fish)
+  emoji: 🤿
+  coords: 4.63643000, 75.56740000
+- name: Cartagena de Indias
   day: 19
   country: Colombia
   date: 28/03/2024
