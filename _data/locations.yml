@@ -1,3 +1,10 @@
+- name: Minca
+  day: 20
+  country: Colombia
+  date: 30/03/2024
+  description: Bus to Santa Marta and then a taxi to Minca, to stay in a eco lodge treehouse
+  emoji: 🛖
+  coords: 4.63643000, 75.56740000
 - name: Cartagena de Indias
   day: 20
   country: Colombia
