@@ -1,4 +1,11 @@
 - name: Minca
+  day: 21
+  country: Colombia
+  date: 31/03/2024
+  description: Easter spent exploring Minca and the Cascada Marinka, a set of waterfalls an hour hike away
+  emoji: 🐣
+  coords: 4.6364300, 75.56740000
+- name: Minca
   day: 20
   country: Colombia
   date: 30/03/2024
