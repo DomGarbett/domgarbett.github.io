@@ -1,4 +1,11 @@
 - name: Minca
+  day: 22
+  country: Colombia
+  date: 04/03/2024
+  description: Walk to Pozo Azul waterfall before checking out of hotel and heading to a hostel near Tayrona  National Park
+  emoji: 💦
+  coords: 4.6364300, 75.56740000
+- name: Minca
   day: 21
   country: Colombia
   date: 31/03/2024
