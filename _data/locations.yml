@@ -1,16 +1,23 @@
 - name: Calabazo, Tayrona
+  day: 29
+  country: Colombia
+  date: 08/04/2024
+  description: Slept off the party at Rio Hostel before heading down the road for one night before flying back to medellin tomorrow
+  emoji: 🪩
+  coords: 4.6364300, 75.56740000
+ - name: Buritaca, Tayrona
   day: 28
   country: Colombia
   date: 07/04/2024
-  description: Slept off the party at Rio Hostel before heading down the road for one night before flying back to medellin tomorrow
-  emoji: 
+  description: Tubing down the river before a big party at the hostel
+  emoji: 🛟
   coords: 4.6364300, 75.56740000
-- name: Buritaca, Tayrona
+ - name: Buritaca, Tayrona
   day: 27
   country: Colombia
   date: 06/04/2024
-  description: Tubing down the river before a big party at the hostel
-  emoji: 🛟
+  description: Day trip to local beach town Palomino, a small surfing town
+  emoji: 🌊
   coords: 4.6364300, 75.56740000
 - name: Buritaca, Tayrona
   day: 27
