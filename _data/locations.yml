@@ -1,7 +1,14 @@
 - name: Medellin
+  day: 31
+  country: Colombia
+  date: 10/04/2024
+  description: Off to a Independiente Medellín football match 
+  emoji: ⚽️
+  coords: 4.6364300, 75.56740000
+- name: Medellin
   day: 30
   country: Colombia
-  date: 09:04/2024
+  date: 09/04/2024
   description: Flight back to Medellin from the north coast for the last few days in Colombia
   emoji: 🛫
   coords: 4.6364300, 75.56740000
