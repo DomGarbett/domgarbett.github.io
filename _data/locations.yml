@@ -1,4 +1,11 @@
 - name: Medellin
+  day: 35
+  country: Colombia
+  date: 14/04/2024
+  description: Last brunch in Colombia, before heading off for an evening flight to Lima, Peru
+  emoji: 🍳
+  coords: 4.6364300, 75.56740000
+- name: Medellin
   day: 34
   country: Colombia
   date: 13/04/2024
