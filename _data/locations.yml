@@ -1,4 +1,11 @@
 - name: Medellin
+  day: 34
+  country: Colombia
+  date: 13/04/2024
+  description: Planned a bit of Peru before heading to Lima tomorrow, also did some shopping at a local mall
+  emoji: 🛍️
+  coords: 4.6364300, 75.56740000
+- name: Medellin
   day: 33
   country: Colombia
   date: 12/04/2024
