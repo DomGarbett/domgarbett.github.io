@@ -1,4 +1,11 @@
 - name: Lima
+  day: 37
+  country: Peru
+  date: 16/04/2024
+  description: Started the day with a walking tour of the historic district before going to a Chifa, a type of Peruvian / Cantonese restaurant
+  emoji: 🥡
+  coords: 4.6364300, 75.56740000
+- name: Lima
   day: 36
   country: Peru
   date: 15/04/2024
