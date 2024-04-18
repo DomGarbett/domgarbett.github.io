@@ -1,4 +1,11 @@
 - name: Lima
+  day: 38
+  country: Peru
+  date: 17/04/2024
+  description: Day spent with a trip to Miraflores and the Kennedy cat park. Before a some Picso Sours snd a night bus to Huaraz   
+  emoji: 🐈‍⬛
+  coords: 4.6364300, 75.56740000
+- name: Lima
   day: 37
   country: Peru
   date: 16/04/2024
