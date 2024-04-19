@@ -1,4 +1,11 @@
 - name: Huaraz
+  day: 40
+  country: Peru
+  date: 19/04/2024
+  description: Acclimitisation hike to laguna Willcacocha at 3725m above sea level 
+  emoji: 🗻
+  coords: 4.6364300, 75.56740000
+- name: Huaraz
   day: 39
   country: Peru
   date: 18/04/2024
