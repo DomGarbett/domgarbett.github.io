@@ -1,4 +1,11 @@
 - name: Huaraz
+  day: 41
+  country: Peru
+  date: 20/04/2024
+  description: Day ttip yo Laguna Paron at 4200m, got to kayack on the turqoise lake
+  emoji: 🛶
+  coords: 4.6364300, 75.56740000
+- name: Huaraz
   day: 40
   country: Peru
   date: 19/04/2024
