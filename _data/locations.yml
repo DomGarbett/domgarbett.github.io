@@ -1,8 +1,15 @@
 - name: Huaraz
+  day: 42
+  country: Peru
+  date: 21/04/2024
+  description: Tough hike to Laguna 69 at 4600m above sea level, another turquiose lake 
+  emoji: 🔵
+  coords: 4.6364300, 75.56740000
+- name: Huaraz
   day: 41
   country: Peru
   date: 20/04/2024
-  description: Day ttip yo Laguna Paron at 4200m, got to kayack on the turqoise lake
+  description: Day trip yo Laguna Paron at 4200m, got to kayack on the turqoise lake
   emoji: 🛶
   coords: 4.6364300, 75.56740000
 - name: Huaraz
