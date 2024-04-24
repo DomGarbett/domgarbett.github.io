@@ -1,4 +1,11 @@
 - name: Huaraz
+  day: 44
+  country: Peru
+  date: 23/04/2024
+  description: Trip to Pastouri Glacier at 5200m, before a night bus back to Lima 
+  emoji: 🧊
+  coords: 4.6364300, 75.56740000
+- name: Huaraz
   day: 43
   country: Peru
   date: 22/04/2024
