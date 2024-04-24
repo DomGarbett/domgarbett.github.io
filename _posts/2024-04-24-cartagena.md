@@ -1,9 +1,9 @@
-———
+---
 layout: post
 title: Cartagena
 date: 2024-04-24 00:00:00 +0000
 categories:
-———
+---
 
 
 After a weekend in Medellin we decided to take our first internal flight of the trip. After looking into the possibility of a 16 hour bus to the north coast, the decision to take a short flight was the obvious answer. 
