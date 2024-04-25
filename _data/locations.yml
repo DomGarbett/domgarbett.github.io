@@ -1,3 +1,10 @@
+- name: Iquitos
+  day: 45
+  country: Peru
+  date: 24/04/2024
+  description: Flight to Iquitos, and arrival in the Amazon before a 3 day amazon excursion tomorrow 
+  emoji: 🌳
+  coords: 4.6364300, 75.56740000
 - name: Huaraz
   day: 44
   country: Peru
