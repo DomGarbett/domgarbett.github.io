@@ -1,4 +1,22 @@
 - name: Iquitos
+  day: 47
+  country: Peru
+  date: 27/04/2024
+  description: Morning spent on a boat trip to a lily pad lake before heading back to Iquitos
+  emoji: 🪷
+- name: Amazon rainforest
+  day: 46
+  country: Peru
+  date: 26/04/2024
+  description: Hike searching for monkeys and sloths before some fishing in the Amazon
+  emoji: 🐒
+- name: Amazon rainforest
+  day: 46
+  country: Peru
+  date: 25/04/2024
+  description: First day of our Amazon adventure searching for dolphins in the Amazon river
+  emoji: 🐬  
+- name: Iquitos
   day: 45
   country: Peru
   date: 24/04/2024
