@@ -1,3 +1,9 @@
+- name: Lima
+  day: 48
+  country: Peru
+  date: 28/04/2024
+  description: Flight back to Lima for a one night stay before heading to Paracas tomorrow 
+  emoji: 🛩️
 - name: Iquitos
   day: 47
   country: Peru
