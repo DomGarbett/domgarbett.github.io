@@ -1,3 +1,9 @@
+- name: Paracas
+  day: 4@
+  country: Peru
+  date: 29/04/2024
+  description: Bus to Paracas, followed by  some happy hour Pisco Sour cocktails
+  emoji: 🍸 
 - name: Lima
   day: 48
   country: Peru
