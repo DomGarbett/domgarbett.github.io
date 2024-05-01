@@ -1,4 +1,10 @@
 - name: Paracas
+  day: 50
+  country: Peru
+  date: 30/04/2024
+  description: Morning boat trip to Islas Ballestas to see penguins and seals. Before a buggy trip around the national park for sunset
+  emoji: 🐧
+- name: Paracas
   day: 49
   country: Peru
   date: 29/04/2024
