@@ -1,4 +1,10 @@
 - name: Paracas
+  day: 54
+  country: Peru
+  date: 01/05/2024
+  description: Chilled by the beach for the morning with some Octopus for lunch. Then headed to Huacachina in the afternoon
+  emoji: 🐙
+- name: Paracas
   day: 53
   country: Peru
   date: 30/04/2024
