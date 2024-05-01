@@ -1,237 +1,237 @@
 - name: Paracas
-  day: 50
+  day: 53
   country: Peru
   date: 30/04/2024
   description: Morning boat trip to Islas Ballestas to see penguins and seals. Before a buggy trip around the national park for sunset
   emoji: 🐧
 - name: Paracas
-  day: 49
+  day: 52
   country: Peru
   date: 29/04/2024
   description: Bus to Paracas, followed by  some happy hour Pisco Sour cocktails
   emoji: 🍸 
 - name: Lima
-  day: 48
+  day: 51
   country: Peru
   date: 28/04/2024
   description: Flight back to Lima for a one night stay before heading to Paracas tomorrow 
   emoji: 🛩️
 - name: Iquitos
-  day: 47
+  day: 50
   country: Peru
   date: 27/04/2024
   description: Morning spent on a boat trip to a lily pad lake before heading back to Iquitos
   emoji: 🪷
 - name: Amazon rainforest
-  day: 46
+  day: 49
   country: Peru
   date: 26/04/2024
   description: Hike searching for monkeys and sloths before some fishing in the Amazon
   emoji: 🐒
 - name: Amazon rainforest
-  day: 46
+  day: 48
   country: Peru
   date: 25/04/2024
   description: First day of our Amazon adventure searching for dolphins in the Amazon river
   emoji: 🐬  
 - name: Iquitos
-  day: 45
+  day: 47
   country: Peru
   date: 24/04/2024
   description: Flight to Iquitos, and arrival in the Amazon before a 3 day amazon excursion tomorrow 
   emoji: 🌳
   coords: 4.6364300, 75.56740000
 - name: Huaraz
-  day: 44
+  day: 46
   country: Peru
   date: 23/04/2024
   description: Trip to Pastouri Glacier at 5200m, before a night bus back to Lima 
   emoji: 🧊
   coords: 4.6364300, 75.56740000
 - name: Huaraz
-  day: 43
+  day: 45
   country: Peru
   date: 22/04/2024
   description: Admin day spent going for brunch and then a trip to Huarez' fruit and veg market 
   emoji: 🥕
   coords: 4.6364300, 75.56740000
 - name: Huaraz
-  day: 42
+  day: 44
   country: Peru
   date: 21/04/2024
   description: Tough hike to Laguna 69 at 4600m above sea level, another turquiose lake 
   emoji: 🔵
   coords: 4.6364300, 75.56740000
 - name: Huaraz
-  day: 41
+  day: 43
   country: Peru
   date: 20/04/2024
   description: Day trip yo Laguna Paron at 4200m, got to kayack on the turqoise lake
   emoji: 🛶
   coords: 4.6364300, 75.56740000
 - name: Huaraz
-  day: 40
+  day: 42
   country: Peru
   date: 19/04/2024
   description: Acclimitisation hike to laguna Willcacocha at 3725m above sea level 
   emoji: 🗻
   coords: 4.6364300, 75.56740000
 - name: Huaraz
-  day: 39
+  day: 41
   country: Peru
   date: 18/04/2024
   description:  After a night bus to Huaraz we spent the day acclimatising to the altitude of 3000m before the next few days of treks 
   emoji: 🫁
   coords: 4.6364300, 75.56740000
 - name: Lima
-  day: 38
+  day: 40
   country: Peru
   date: 17/04/2024
   description: Day spent with a trip to Miraflores and the Kennedy cat park. Before some Picso Sours and a night bus to Huaraz   
   emoji: 🐈‍⬛
   coords: 4.6364300, 75.56740000
 - name: Lima
-  day: 37
+  day: 39
   country: Peru
   date: 16/04/2024
   description: Started the day with a walking tour of the historic district before going to a Chifa, a type of Peruvian / Cantonese restaurant
   emoji: 🥡
   coords: 4.6364300, 75.56740000
 - name: Lima
-  day: 36
+  day: 38
   country: Peru
   date: 15/04/2024
   description: First day in Peru spent wandering around Barranco district with some ceviche for lunch
   emoji: 🇵🇪
   coords: 4.6364300, 75.56740000
 - name: Medellin
-  day: 35
+  day: 37
   country: Colombia
   date: 14/04/2024
   description: Last brunch in Colombia, before heading off for an evening flight to Lima, Peru
   emoji: 🍳
   coords: 4.6364300, 75.56740000
 - name: Medellin
-  day: 34
+  day: 36
   country: Colombia
   date: 13/04/2024
   description: Planned a bit of Peru before heading to Lima tomorrow, also did some shopping at a local mall
   emoji: 🛍️
   coords: 4.6364300, 75.56740000
 - name: Medellin
-  day: 33
+  day: 35
   country: Colombia
   date: 12/04/2024
   description: Day trip to Guatape to climb El Peñon followed by a boat trip on the lake
   emoji: 🪨
   coords: 4.6364300, 75.56740000
 - name: Medellin
-  day: 32
+  day: 34
   country: Colombia
   date: 11/04/2024
   description: Spent the day at Jardin Botanic garden and saw some iguanas, and lots of cheese plants
   emoji: 🦎
   coords: 4.6364300, 75.56740000
 - name: Medellin
-  day: 31
+  day: 33
   country: Colombia
   date: 10/04/2024
   description: Off to a Independiente Medellín football match 
   emoji: ⚽️
   coords: 4.6364300, 75.56740000
 - name: Medellin
-  day: 30
+  day: 32
   country: Colombia
   date: 09/04/2024
   description: Flight back to Medellin from the north coast for the last few days in Colombia
   emoji: 🛫
   coords: 4.6364300, 75.56740000
 - name: Calabazo, Tayrona
-  day: 29
+  day: 31
   country: Colombia
   date: 08/04/2024
   description: Slept off the party at Rio Hostel before heading down the road for one night before flying back to medellin tomorrow
   emoji: 🪩
   coords: 4.6364300, 75.56740000
 - name: Buritaca, Tayrona
-  day: 28
+  day: 30
   country: Colombia
   date: 07/04/2024
   description: Tubing down the river before a big party at the hostel
   emoji: 🛟
   coords: 4.6364300, 75.56740000
 - name: Buritaca, Tayrona
-  day: 27
+  day: 29
   country: Colombia
   date: 06/04/2024
   description: Day trip to local beach town Palomino, a small surfing town
   emoji: 🌊
   coords: 4.6364300, 75.56740000
 - name: Buritaca, Tayrona
-  day: 26
+  day: 28
   country: Colombia
   date: 05/04/2024
   description: Morning by the pool before heading down the road to Rio hostel on the Buritaca river
   emoji: 🎣
   coords: 4.6364300, 75.56740000
 - name: Los Naranjos,  Tayrona
-  day: 25
+  day: 27
   country: Colombia
   date: 04/04/2024
   description: Hike back from camp , before a moto taxi to hostel. Before heading to Journey hostel. 
   emoji: 🏍️
   coords: 4.6364300, 75.56740000
 - name: Cabo San Juan Beach, Tayrona Park
-  day: 24
+  day: 26
   country: Colombia
   date: 03/04/2024
   description: Hike through Tayrona National Park to sleep on some hammocks on the beach
   emoji: 🏝️
   coords: 4.6364300, 75.56740000
 - name: Calabazo, Tayrona
-  day: 23
+  day: 25
   country: Colombia
   date: 02/04/2024
   description: A day spent by the pool of hostel reading books before a one night stay in hammocks at Tayrona National Park tomorrow
   emoji: 📖
   coords: 4.6364300, 75.56740000
 - name: Calabazo, Tyrona
-  day: 22
+  day: 24
   country: Colombia
   date: 01/04/2024
   description: Walk to Pozo Azul waterfall before checking out of hotel and heading to a hostel near Tayrona  National Park
   emoji: 💦
   coords: 4.6364300, 75.56740000
 - name: Minca
-  day: 21
+  day: 23
   country: Colombia
   date: 31/03/2024
   description: Easter spent exploring Minca and the Cascada Marinka, a set of waterfalls an hour hike away
   emoji: 🐣
   coords: 4.6364300, 75.56740000
 - name: Minca
-  day: 20
+  day: 22
   country: Colombia
   date: 30/03/2024
   description: Bus to Santa Marta and then a taxi to Minca, to stay in a eco lodge treehouse
   emoji: 🛖
   coords: 4.63643000, 75.56740000
 - name: Cartagena de Indias
-  day: 20
+  day: 21
   country: Colombia
   date: 29/03/2024
   description: Boat trip to the Rosario islands, with snorkelling around coral reef's and Pablo Escobar's plane wreck (saw lots of fish)
   emoji: 🤿
   coords: 4.63643000, 75.56740000
 - name: Cartagena de Indias
-  day: 19
+  day: 20
   country: Colombia
   date: 28/03/2024
   description: Day trip to bathe at Volcan del Totumo, a mud volcano
   emoji: 🟤🛀
   coords: 4.63643000, 75.56740000
 - name: Cartagena de Indias
-  day: 18
+  day: 19
   country: Colombia
   date: 27/03/2024
   description: Explored the walled  city of Cartagena, a UNESCO world heritage site
