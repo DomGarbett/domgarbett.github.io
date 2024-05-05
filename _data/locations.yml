@@ -1,4 +1,10 @@
 - name: Arequipa
+  day: 58
+  country: Peru
+  date: 05/05/2024
+  description: Walking tour of Arequipa, which included a trip to an alpaca museum 
+  emoji: 🦙
+- name: Arequipa
   day: 57
   country: Peru
   date: 04/05/2024
