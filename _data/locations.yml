@@ -1,3 +1,9 @@
+- name: Arequipa
+  day: 61
+  country: Peru
+  date: 08/05/2024
+  description: Up at 4:30 am to hike out of Colca Canyon, before returning to Arequipa
+  emoji: 🌄
 - name: Colca Canyon
   day: 60
   country: Peru
