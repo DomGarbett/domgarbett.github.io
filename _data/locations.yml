@@ -1,4 +1,10 @@
 - name: Arequipa
+  day: 62
+  country: Peru
+  date: 09/05/2024
+  description: Visit to Juanita museum, dedicated to the finding of an incan child sacraficed to the sun gods
+  emoji: 🔆
+- name: Arequipa
   day: 61
   country: Peru
   date: 08/05/2024
