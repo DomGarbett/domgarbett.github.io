@@ -1,3 +1,9 @@
+- name: Cusco
+  day: 63
+  country: Peru
+  date: 10/05/2024
+  description: Arrived in Cusco after a night bus, explored the city and had some drinks in an Irish Pub
+  emoji: ☘️
 - name: Arequipa
   day: 62
   country: Peru
