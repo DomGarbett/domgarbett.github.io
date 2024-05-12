@@ -1,4 +1,10 @@
 - name: Cusco
+  day: 64
+  country: Peru
+  date: 11/05/2024
+  description: Explored Cusco the capital of the Incan empire through a walking tour
+  emoji: 👟
+- name: Cusco
   day: 63
   country: Peru
   date: 10/05/2024
