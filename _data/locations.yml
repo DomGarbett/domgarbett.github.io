@@ -1,4 +1,10 @@
 - name: Cusco
+  day: 65
+  country: Peru
+  date: 12/05/2024
+  description: Day trip to the Sacred valley to see lots of inca ruins, befofe a briefing fof out 5 day trek starting tomorow
+  emoji: 🛕
+- name: Cusco
   day: 64
   country: Peru
   date: 11/05/2024
