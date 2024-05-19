@@ -1,3 +1,15 @@
+- name: Cusco
+  day: 71
+  country: Peru
+  date: 18/05/2024
+  description: Day relaxing in Cusco and picking up our Salkantay survior T-shirts 
+  emoji: 👕
+- name: Macchu Pichu
+  day: 70
+  country: Peru
+  date: 17/05/2024
+  description: Visited Machu Picchu
+  emoji: 🥳
 - name: Salkantay Trek
   day: 69
   country: Peru
