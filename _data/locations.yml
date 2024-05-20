@@ -1,4 +1,10 @@
 - name: Cusco
+  day: 72
+  country: Peru
+  date: 19//05/2024
+  description: Day trip to rainbow mountain  
+  emoji: 🌈
+- name: Cusco
   day: 71
   country: Peru
   date: 18/05/2024
