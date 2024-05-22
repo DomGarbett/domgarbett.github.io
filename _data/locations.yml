@@ -1,4 +1,10 @@
 - name: La Paz
+  day: 74
+  country: Bolivia
+  date: 21/05/2024
+  description: Walking tour of La Paz, before a night bus to Uyuni for a 3 day salt flats tour
+  emoji: 🥾
+- name: La Paz
   day: 73
   country: Bolivia
   date: 20/05/2024
