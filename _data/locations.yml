@@ -1,4 +1,10 @@
 - name: La Paz
+  day: 79
+  country: Bolivia
+  date: 26/05/2024
+  description: Morning exploring the cable cars before going to see Bolivian Cholita wrestling
+  emoji: 🤼‍♀️
+- name: La Paz
   day: 78
   country: Bolivia
   date: 25/05/2024
