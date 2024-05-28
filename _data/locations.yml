@@ -1,3 +1,9 @@
+- name: Copacabana
+  day: 79
+  country: Bolivia
+  date: 27/05/2024
+  description: Bus to Copacabana, and then boat trip to Isla del Sol to see the incan sun temple
+  emoji: ☀️
 - name: La Paz
   day: 79
   country: Bolivia
