@@ -1,5 +1,11 @@
+- name: La Paz
+  day: 81
+  country: Bolivia
+  date: 28/05/2024
+  description: Morning spent hiking to top of Copocabana beach lookout point, befofe heading back to La Paz 
+  emoji: ⛪️
 - name: Copacabana
-  day: 79
+  day: 80
   country: Bolivia
   date: 27/05/2024
   description: Bus to Copacabana, and then boat trip to Isla del Sol to see the incan sun temple
