@@ -1,4 +1,10 @@
 - name: La Paz
+  day: 82
+  country: Bolivia
+  date: 29/05/2024
+  description: Last day of the trip, lunch at Popular cocina boliviana restaurant 
+  emoji: 🍽️
+- name: La Paz
   day: 81
   country: Bolivia
   date: 28/05/2024
